@@ -32,7 +32,19 @@ text-align: center;
 }
 
 ul {
+  margin: 20px;
   list-style-type:none;
   text-align: center;
   font-size: 3rem;
+    color: #5b0909;
+}
+
+#video-grid-container {
+text-align: center;
+margin: 30px 3px;
+}
+
+.v {
+  height: 120px;
+  width: auto;
 }
