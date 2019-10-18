@@ -42,7 +42,7 @@ h1 {
   color:
 }
 
-#video-title {
+#video-title, #coding-title, #about-title {
   text-align: center;
   font-size: 90px;
   color: #5b0909;
@@ -68,4 +68,22 @@ margin: 90px 3px;
 .v {
   height: 120px;
   width: auto;
+}
+
+#about {
+  background-color: #5b0909;
+  margin: 0 0 0 0;
+  padding-right: 0;
+  height: 300px;
+}
+.about {
+
+}
+
+h3, h4 {
+  color: #fcf9ea;
+}
+
+span {
+  font-size: 2.5rem;
 }
