@@ -1,5 +1,5 @@
 #jayimg {
-  height: 200px;
+  height: 35%;
   width: auto;
   position:fixed;
   right: 100px;
@@ -7,10 +7,32 @@
 }
 
 #header {
-  margin-bottom: 0;
+  margin: 20px 0 0 0;
   padding-bottom: 0;
+  color: #5b0909;
+}
+
+.jumbotron {
+  background-color: #f6cd90;
 }
 
 #jumbotron-header {
   height: 200px;
+}
+
+#videoheader {
+
+text-align: center;
+}
+
+#video-header-text {
+  font-size: 4rem;
+  align-items: baseline;
+  color: #5b0909;
+}
+
+ul {
+  list-style-type:none;
+  text-align: center;
+  font-size: 3rem;
 }
