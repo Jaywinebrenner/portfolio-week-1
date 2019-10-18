@@ -24,6 +24,26 @@ h1 {
   font-size: 9rem;
 }
 
+a {
+  color: #5b0909;
+}
+
+a:visited {
+color: #5b0909;
+}
+
+/* mouse over link */
+a:hover {
+color: #fda77f;
+}
+
+/* selected link */
+a:active {
+color: #ed5107;
+}
+
+
+
 #header-left-div {
 
 }
@@ -75,6 +95,7 @@ margin: 90px 3px;
   margin: 0 0 0 0;
   padding-right: 0;
   height: 300px;
+  width: 100%;
 }
 .about {
 
@@ -82,6 +103,27 @@ margin: 90px 3px;
 
 h3, h4 {
   color: #fcf9ea;
+  font-size: 1.5rem;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.above-greasy {
+  margin-bottom: 0;
+  display: inline;
+}
+
+.greasy {
+  margin-top: 0;
+  display: inline;
+}
+
+#faceswap {
+  height: 300px;
+  width: auto;
+  float: right;
+  margin-left: 25px;
+
 }
 
 span {
