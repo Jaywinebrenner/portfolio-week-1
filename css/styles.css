@@ -1,34 +1,45 @@
+
+body {
+  background-color: #fcf9ea;
+}
+
 #jayimg {
-  height: 35%;
+  height: 370px;
   width: auto;
-  position:fixed;
-  right: 100px;
-  bottom: 1px;
+  float: right;
 }
 
-#header {
-  margin: 20px 0 0 0;
+#header-container {
   padding-bottom: 0;
+  background-color: #fda77f;
+  width: 100%;
+  height: 370px;
+}
+
+h1, h2 {
+  color: #fcf9ea;
+}
+
+h1 {
+  font-size: 9rem;
+}
+
+#header-left-div {
+
+}
+
+
+#header-text {
+  font-size: 2rem;
   color: #5b0909;
+
 }
 
-.jumbotron {
-  background-color: #f6cd90;
-}
+#navbar-container {
+  display: inline;
+  color: red;
+  
 
-#jumbotron-header {
-  height: 200px;
-}
-
-#videoheader {
-
-text-align: center;
-}
-
-#video-header-text {
-  font-size: 4rem;
-text-align: center;
-  color: #5b0909;
 }
 
 ul {
@@ -36,7 +47,8 @@ ul {
   list-style-type:none;
   text-align: center;
   font-size: 3rem;
-    color: #5b0909;
+  color: #5b0909;
+  display: inline;
 }
 
 #video-grid-container {
