@@ -1,0 +1,16 @@
+#jayimg {
+  height: 200px;
+  width: auto;
+  position:fixed;
+  right: 100px;
+  bottom: 1px;
+}
+
+#header {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#jumbotron-header {
+  height: 200px;
+}
