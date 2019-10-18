@@ -26,8 +26,6 @@ h1 {
   font-size: 9rem;
 }
 
-
-
 a:visited {
 color: #5b0909;
 }
@@ -40,11 +38,9 @@ a:active {
 color: #ed5107;
 }
 
-
 #header-text {
   font-size: 2rem;
   color: #5b0909;
-
 }
 
 #navbar-container {
@@ -113,7 +109,6 @@ h3, h4 {
   width: auto;
   float: right;
   margin-left: 25px;
-
 }
 
 span {
@@ -132,13 +127,12 @@ span {
   color: #5b0909;
   text-align: center;
   margin-bottom: 0;
-
 }
 
 .email-icon {
   height: 30px;
   width: auto;
   display: block;
- margin-left: auto;
- margin-right: auto
+  margin-left: auto;
+  margin-right: auto
 }
