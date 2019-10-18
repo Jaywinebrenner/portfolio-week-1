@@ -27,7 +27,7 @@ text-align: center;
 
 #video-header-text {
   font-size: 4rem;
-  align-items: baseline;
+text-align: center;
   color: #5b0909;
 }
 
