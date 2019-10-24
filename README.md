@@ -25,8 +25,12 @@ _Please get in touch with me for any reason at all. jaywinebrenner@gmail.com_
 
 _HTML, CSS, Bootstrap, Atom_
 
+##GitHub Pages Link
+
+<https://jaywinebrenner.github.io/portfolio-week-1/>
+
 ### License
 
 *{This software is licensed under the MIT license}*
 
-Copyright (c) 2016 **_Jay Winebrenner_**
+Copyright (c) 2019 **_Jay Winebrenner_**
