@@ -31,6 +31,6 @@ _HTML, CSS, Bootstrap, Atom_
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
 Copyright (c) 2019 **_Jay Winebrenner_**
