@@ -25,7 +25,7 @@ _Please get in touch with me for any reason at all. jaywinebrenner@gmail.com_
 
 _HTML, CSS, Bootstrap, Atom_
 
-##GitHub Pages Link
+## GitHub Pages Link
 
 <https://jaywinebrenner.github.io/portfolio-week-1/>
 
